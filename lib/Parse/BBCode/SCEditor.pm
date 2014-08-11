@@ -4,7 +4,6 @@ package Parse::BBCode::SCEditor;
 use strict;
 use warnings;
 use Carp qw(croak carp);
-use URI::Escape;
 use base qw/ Parse::BBCode /;
 use Parse::BBCode::HTML;
 
